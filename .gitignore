@@ -1,0 +1,12 @@
+db.sqlite3
+modeloapp/modeloapp/__pycache__/*
+modeloapp/apps/categories/__pycache__/*
+modeloapp/apps/categories/migrations/*
+modeloapp/apps/products/__pycache__/*
+modeloapp/apps/products/migrations/*
+modeloapp/apps/socialnetworks/__pycache__/*
+modeloapp/apps/socialnetworks/migrations/*
+modeloapp/apps/clients/__pycache__/*
+modeloapp/apps/clients/migrations/*
+modeloapp/apps/orders/__pycache__/*
+modeloapp/apps/orders/migrations/*
